@@ -1,0 +1,11 @@
+{
+  "name": "voxel-example",
+  "version": "0.0.1",
+  "dependencies": {
+    "voxel-player": "~0.1.0",
+    "voxel-engine": "~0.18.2"
+  },
+  "scripts": {
+    "start": "browservefy index.js 3000"
+  }
+}
