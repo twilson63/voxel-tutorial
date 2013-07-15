@@ -1,4 +1,4 @@
-# Voxel Game Engine Example
+# Voxel Game Engine Tutorial
 
 I got some time this weekend to spend with VoxelJs, and it is a lot of fun, but it is new and I wanted to share some of the things I learned as I was getting up to speed on the engine.
 
