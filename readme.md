@@ -2,7 +2,7 @@
 
 I got some time this weekend to spend with VoxelJs, and it is a lot of fun, but it is new and I wanted to share some of the things I learned as I was getting up to speed on the engine.
 
-First: RTFM (Read the freaking manual), I thought the video and walk through was good enough, but reading the readme of the https://github.com/maxogden/voxel-engine give you a better perspective of the api.
+First: RTFM (Read the freaking manual), I thought the video and walk through was good enough, but reading the readme of the https://github.com/maxogden/voxel-engine gives you a better perspective of the api.
 
 After reading the manual, I still struggled fully understanding what was going on and after spending time studing the https://github.com/maxogden/voxel-hello-world, it finally clicked, __I was missing the png files and setting the materials.___
 
